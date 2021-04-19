@@ -1,1 +1,1 @@
-# sft-riscvpi-opensbi
+# sft-riscv-opensbi
